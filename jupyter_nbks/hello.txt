@@ -1,0 +1,16 @@
+Omg im like so glad that this worked
+
+I hope i can add this to my repo without it breaking 
+
+this is hard stuff 
+
+here's what i know: 
+
+you pull to see whats changed 
+you status to see if you are caught up and need to add or commit anything
+
+you commit, and then you push -- thats key
+
+you do add to make it able to be committed 
+
+
